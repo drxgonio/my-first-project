@@ -1,0 +1,3 @@
+https://github.com/kbastani/spring-boot-starter-amazon-s3
+https://www.youtube.com/watch?v=WhpnTyiBYkQ&t=13s
+lay quyen user:http://javasampleapproach.com/spring-framework/spring-cloud/amazon-s3-uploaddownload-files-springboot-amazon-s3-application
